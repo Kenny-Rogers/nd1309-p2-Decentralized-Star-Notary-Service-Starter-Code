@@ -138,5 +138,15 @@ compilers: {
 Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)
 
 
+## Token Name
+Star Notary Token
+
+## Token Symbol
+SNT
+
+## Versions
+Truffle => 5.0.2
+OpenZeppelin => 2.3
+
 ## Token Address
 Deployed on the Goerli Test network at address [0xFae831462efC595185b661e34C90Ba812856d8Aa](https://goerli.etherscan.io/address/0xfae831462efc595185b661e34c90ba812856d8aa)
